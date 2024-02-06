@@ -16,8 +16,7 @@ podspec = Pod::Spec.new do |spec|
 
   spec.authors = 'Facebook'
   spec.source = {
-    :git => 'https://github.com/facebook/yoga.git',
-    :tag => spec.version.to_s,
+    :git => 'https://github.com/DerianAguilar20/yoga.git'
   }
 
   spec.platform = :ios
