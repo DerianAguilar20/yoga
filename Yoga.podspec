@@ -5,7 +5,7 @@
 #  file in the root directory of this source tree.
 #
 Pod::Spec.new do |spec|
-  spec.name = 'Yoga'
+  spec.name = 'yoga'
   spec.version = '1.14.0'
   spec.license =  { :type => 'MIT', :file => "LICENSE" }
   spec.homepage = 'https://yogalayout.com/'
